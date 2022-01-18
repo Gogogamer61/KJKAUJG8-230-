@@ -52,7 +52,7 @@ char.Torso.Anchored = true
 notify('wait','Reanimating...\nPlease wait '..penis..' seconds.')
 wait(penis)
 char.Torso.Anchored=false
-notify('LXHub','done.........')
+notify('LX63Hub','done.........')
 char.Humanoid.Health=0
 --reanim.Humanoid.AutoRotate=false
 reanim.Animate.Disabled = true
